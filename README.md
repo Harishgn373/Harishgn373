@@ -7,14 +7,14 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/harishgnharishyal786/sites](https://app.netlify.com/teams/harishgnharishyal786/sites)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java (OOP).**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Java,C#(OOPs),SQL.**
 
 - 📫 How to reach me **harishgn373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harish g. n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish g. n" height="30" width="40" /></a>
-<a href="https://instagram.com/harish_g,n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_g,n" height="30" width="40" /></a>
+<a href="https://instagram.com/harish_g.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harish_g,n" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/harish g. n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harish g. n" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harish2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harish2k4" height="30" width="40" /></a>
 </p>
